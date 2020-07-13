@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hola... Soy Fabian Ardila y este es mi perfil en GitHub. 
+
+Me encanta el desarrollo y cada dia estoy aprendiendo mas. 
+Tengo experiencia en desarrollo en Android. 
+
+Estoy en Beta permanente, asi que es probable que pronto te pueda presentar nuevos desarrollos mios en otros lenguajes. 
 
 <!--
 **fgardila/fgardila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
