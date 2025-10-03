@@ -14,7 +14,7 @@ Actualmente, me desempeño como **Senior Advanced Software Developer - Mobile Te
 
 ### 💡 **Mis Contribuciones Clave:**
 
-*   **Liderazgo Técnico:** Soy responsable de liderar técnicamente a un equipo de 6 desarrolladores móviles, asegurando la entrega de soluciones escalables y seguras.
+*   **Liderazgo Técnico:** Soy responsable de liderar técnicamente a un equipo de desarrolladores móviles, asegurando la entrega de soluciones escalables y seguras.
 *   **Modernización y Arquitectura:** Lideré la migración de la base de código de Java a **Kotlin** y la adopción del patrón **MVVM** para optimizar la mantenibilidad, escalabilidad y eficiencia del desarrollo.
 *   **Modularización:** Optimizo el rendimiento y promuevo la reutilización de componentes mediante la **modularización del aplicativo**, buscando mayor flexibilidad e independencia funcional.
 *   **Integración:** Diseño y desarrollo nuevas funcionalidades, integrando APIs REST y colaborando estrechamente con equipos de producto y diseño.
